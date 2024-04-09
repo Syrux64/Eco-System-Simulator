@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 2D Eco-System Simulator!!
 A window of forest for rabbits 🐰 and foxes 🦊 to inhabit in. Foxes hunt rabbits while rabbits flee. The stats
@@ -24,3 +25,8 @@ Run the command
 The code is not well structured in a way for modularity/object oriented programming.
 
 ;)
+=======
+# Eco-System-Simulator
+Implemented in C++ using SDL2 library. Interact with buttons to spawn grass, rabbit and fox, and see how the simulator simulates the environment.
+>>>>>>> origin/main
+"# Eco-System-Simulator" 
