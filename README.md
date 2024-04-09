@@ -4,8 +4,7 @@ A window of forest for rabbits 🐰 and foxes 🦊 to inhabit in. Foxes hunt rab
 about the simlation is observed at the end. 
 
 ## Demo
-![EcoSystemSimulation gif](https://github.com/Syrux64/Eco-System-Simulator/assets/118998822/12fb57fc-f01d-4d47-9b83-6ed883a344d9)
-
+![EcoSystemSimulationGIF](https://github.com/Syrux64/Eco-System-Simulator/assets/118998822/2398c519-63d1-4a58-9c21-ddd0e9c7cdc1)
 
 ## To Compile
 Use the make file
