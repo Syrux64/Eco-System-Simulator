@@ -64,7 +64,7 @@ int main(int argc, char* _argv[]){
 
 
    // Window Setup
-    SDL_Window* window = SDL_CreateWindow("Eco System Simulation", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
+    SDL_Window* window = SDL_CreateWindow("Eco System Simulator", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
     SDL_Renderer* renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
     SDL_Surface *icon = IMG_Load("images/rabbit_1.png");
     SDL_SetWindowIcon(window, icon);
