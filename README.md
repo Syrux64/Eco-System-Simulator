@@ -1,7 +1,7 @@
 
 # 2D Eco-System Simulator!!
 A window of forest for rabbits 🐰 and foxes 🦊 to inhabit in. Foxes hunt rabbits while rabbits flee. The stats
-about the simlation is observed at the end. 
+about the simulation is observed at the end. 
 
 ## Demo
 ![EcoSystemSimulationGIF](https://github.com/Syrux64/Eco-System-Simulator/assets/118998822/2398c519-63d1-4a58-9c21-ddd0e9c7cdc1)
